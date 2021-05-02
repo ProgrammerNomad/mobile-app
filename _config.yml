@@ -3,11 +3,9 @@ url: "https://saubhagyaindia.github.io/mobile-app"
 baseurl: "https://saubhagyaindia.github.io/mobile-app"
 
 plugins:
-  - jekyll-archives
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-paginate
+
 
 exclude:
   - Gemfile
