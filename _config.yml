@@ -5,6 +5,8 @@ baseurl: "https://saubhagyaindia.github.io/mobile-app"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  
+markdown: kramdown
 
 exclude:
   - Gemfile
